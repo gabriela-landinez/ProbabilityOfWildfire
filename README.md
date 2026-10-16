@@ -8,7 +8,7 @@ It features detailed code explanations and comprehensive descriptions of each no
 ---
 
 ##  Project Overview
-* **Course:** Laboratory of Physical Datasets - B (2026)
+* **Course:** Laboratory of Computational Physics - Module B 
 * **Institution:** Università degli Studi di Padova
 * **Purpose:** Final Course Project
 *  **Students:**
